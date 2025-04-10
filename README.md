@@ -5,4 +5,8 @@ The game was inspired by the _Pou_ game on Android. Since the character in my ga
 
 You may encounter issues installing `graphics.h`, especially on newer versions of Linux. I’ve also included the `.exe` file, so if you prefer, you can run the game directly on Windows.
 
-![](https://github.com/AliAhmadi24/PoDayere/blob/main/photo.png)
+
+
+
+https://github.com/user-attachments/assets/e201d1ea-ceac-4bb0-8681-b04d47ef91ad
+
